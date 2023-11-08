@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container {
+    flex: 1;
+}
+
+/* Estilo personalizado para el footer */
+footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
